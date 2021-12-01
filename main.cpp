@@ -6,7 +6,7 @@ int main(){
   cin>>a;
   if(conversione(a)==false)
   {
-    cout<<errore<<endl;
+    cout<<"errore"<<endl;
   }
   else
   {
